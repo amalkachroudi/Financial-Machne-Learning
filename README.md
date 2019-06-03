@@ -1,1 +1,1 @@
-# Financial-Machne-Learning
+# Financial-Machine-Learning
